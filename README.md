@@ -17,3 +17,5 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
+
+**Live site:** https://nadiya-six.vercel.app
